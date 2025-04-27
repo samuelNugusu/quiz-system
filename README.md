@@ -1,1 +1,1 @@
-# Maya
+# quiz-system
